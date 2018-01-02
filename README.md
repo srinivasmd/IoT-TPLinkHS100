@@ -2,6 +2,12 @@
 
 Simple Java API for TP-Link HS100 Plugs. Although it should work for all HS plugs, but i have tested them on HS100 plugs
 
+## Supported Devices
+
+| Model                      | Type |
+|----------------------------|------|
+| HS100(Tested), HS105, HS110, HS200 | Plug |
+
 ## Getting Started
 
 There is one class central to the TPLink HS-100 API. This is the TPLinkHS100.java class. It represents a physical plug.
