@@ -57,3 +57,9 @@ By default, the port for TP-Link
 
     // Set the Port
     plug.setPort(Integer PORT);
+    
+### Sample Program to Toggle (On/Off) Plug for every 15 mins
+
+    //Check Implementation Done In HeaterTimer.java
+    
+
